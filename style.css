@@ -1,0 +1,64 @@
+body {
+    background-image: url(img/fundo-back.jpg);
+    background-color: black;
+    background-size: cover;
+    background-size: 100%;
+    /* background-repeat: no-repeat; */
+    margin-top: 9%;
+}
+
+.nome {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+}
+
+.formacao {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 20px;
+}
+
+.redes_sociais {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 20px;
+}
+
+.redes {
+    text-align: center;
+}
+
+img {
+    border-radius: 40px;
+    height: 35px;
+    width: 35px;
+    margin-left:auto;
+    margin-right: auto;
+}
+.foto_eu {
+    border-radius: 20px;
+    height:120px;
+    width: 140px;
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+.curriculo {
+    color: white;
+    text-align: center;
+}
+
+.curriculo_aqui{
+    color: rgb(215, 235, 33);
+}
+
+.email {
+    color: white;
+    text-align: center;
+    font-size: 17px;
+}
